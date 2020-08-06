@@ -1,3 +1,2 @@
 # MyFirstProject
-Sample project
-Hello World!
+My calculator
